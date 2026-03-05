@@ -13,4 +13,4 @@ python train_duala.py --wandb_log  --model_name=subj01_duala --no-multi_subject 
 
 ### Acknowledgement
 
-Part of the code is origin from [MindEye2](https://github.com/MedARC-AI/MindEyeV2). 
+Part of the code is originally from [MindEye2](https://github.com/MedARC-AI/MindEyeV2). 
