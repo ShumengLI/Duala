@@ -11,6 +11,7 @@ Train the model
 python train_duala.py --wandb_log  --model_name=subj01_duala --no-multi_subject --subj=1 --num_sessions=1 --multisubject_ckpt=xxx/train_logs/final_multisubject_subj01
 ```
 
+The pretrained models are from [MindEye2](https://huggingface.co/datasets/pscotti/mindeyev2).
 
 ### Acknowledgement
 
