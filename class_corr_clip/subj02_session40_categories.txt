@@ -1,0 +1,78 @@
+A variety of fruits
+airplane
+apple
+backpack
+banana
+baseball
+bear
+bed
+bench
+bicycle
+bird
+boat
+book
+bowl
+boy
+broccoli
+cake
+car
+carrot
+cat
+cell phone
+chair
+clock
+computer
+couch
+cow
+cup
+dining table
+dog
+donut
+elephant
+fire hydrant
+fork
+frisbee
+giraffe
+girl
+hair drier
+handbag
+horse
+hot dog
+keyboard
+kite
+knife
+laptop
+men
+motorcycle
+orange
+parking meter
+people
+person
+pizza
+potted plant
+refrigerator
+sandwich
+scissors
+sheep
+sink
+skateboard
+skis
+snowboard
+spoon
+sports ball
+suitcase
+surf
+surfboard
+teddy bear
+tennis racket
+toaster
+toilet
+toothbrush
+traffic
+train
+truck
+umbrella
+vase
+wine glass
+woman
+zebra
