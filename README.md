@@ -15,7 +15,7 @@ The pretrained models (final_multisubject_subj0x) are from [MindEye2](https://hu
 
 ## Model
 
-The pretrained Duala model is available at: [Duala](https://huggingface.co/ShumengLI/Duala/tree/main).
+The fine-tuned Duala model is available at: [Duala](https://huggingface.co/ShumengLI/Duala/tree/main).
 
 ### Acknowledgement
 
