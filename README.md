@@ -13,6 +13,11 @@ python train_duala.py --wandb_log  --model_name=subj01_duala --no-multi_subject 
 
 The pretrained models (final_multisubject_subj0x) are from [MindEye2](https://huggingface.co/datasets/pscotti/mindeyev2).
 
+## Model
+
+The pretrained Duala model is available at: [Duala](https://huggingface.co/ShumengLI/Duala/tree/main).
+
 ### Acknowledgement
 
 Part of the code is originally from [MindEye2](https://github.com/MedARC-AI/MindEyeV2). 
+
